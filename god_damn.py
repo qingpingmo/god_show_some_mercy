@@ -1,1 +1,1 @@
-print(shit!)
+print("shit!")
