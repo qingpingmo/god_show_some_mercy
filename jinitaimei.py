@@ -1,1 +1,1 @@
-print(jinitaimei)
+print("jinitaimei")
